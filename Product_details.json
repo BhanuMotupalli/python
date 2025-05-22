@@ -1,0 +1,17 @@
+{
+    "M123E45": {
+        "product_name": "iphone",
+        "product_category": "mobile",
+        "product_id": "M123E45"
+    },
+    "S234WS3": {
+        "product_name": "Samsung",
+        "product_category": "mobile",
+        "product_id": "S234WS3"
+    },
+    "S789QW12": {
+        "product_name": "Sony",
+        "product_category": "TV",
+        "product_id": "S789QW12"
+    }
+}
